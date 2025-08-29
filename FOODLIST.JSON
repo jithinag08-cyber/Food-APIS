@@ -1,0 +1,148 @@
+[
+  {
+    "id": 1,
+    "name": "Avial",
+    "description": "A traditional Kerala dish made with mixed vegetables, coconut, and yogurt, seasoned with coconut oil and curry leaves.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Avial_Kerala_Style_Recipe_.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 2,
+    "name": "Puttu and Kadala Curry",
+    "description": "Steamed cylindrical rice cake served with black chickpea curry, a popular Kerala breakfast dish.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2018/06/puttu-recipe-1-500x500.jpg",
+    "category": "Breakfast"
+  },
+  {
+    "id": 3,
+    "name": "Idiyappam with Curry",
+    "description": "String hoppers made from rice flour, served with coconut milk or curry.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Idiyappam.jpg",
+    "category": "Breakfast"
+  },
+  {
+    "id": 4,
+    "name": "Appam with Stew",
+    "description": "Soft hoppers made from fermented rice batter, served with vegetable or chicken stew.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Appam_Kerala_Style.jpg",
+    "category": "Breakfast"
+  },
+  {
+    "id": 5,
+    "name": "Thalassery Biryani",
+    "description": "A fragrant biryani from Malabar region made with short-grain rice, spices, and meat.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Thalassery_Chicken_Biryani.jpg",
+    "category": "Main Course"
+  },
+  {
+    "id": 6,
+    "name": "Malabar Parotta",
+    "description": "Layered flaky flatbread made with maida, served with spicy curries.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Malabar_Parotta.jpg",
+    "category": "Main Course"
+  },
+  {
+    "id": 7,
+    "name": "Kerala Fish Curry",
+    "description": "Tangy and spicy fish curry cooked with coconut milk and tamarind.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Kerala_Fish_Curry.jpg",
+    "category": "Non-Veg"
+  },
+  {
+    "id": 8,
+    "name": "Meen Pollichathu",
+    "description": "Fish marinated with spices, wrapped in banana leaf, and grilled.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Meen_Pollichathu.jpg",
+    "category": "Seafood"
+  },
+  {
+    "id": 9,
+    "name": "Erissery",
+    "description": "A festive dish made with pumpkin, coconut, and spices, served in Onam Sadya.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Erissery.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 10,
+    "name": "Olan",
+    "description": "A mild dish made with ash gourd, coconut milk, and curry leaves.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Olan.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 11,
+    "name": "Thoran",
+    "description": "Stir-fried vegetables with grated coconut and mild spices.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Thoran.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 12,
+    "name": "Pulissery",
+    "description": "A curd-based curry with ripe mango or cucumber, mildly spiced.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Pulissery.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 13,
+    "name": "Theeyal",
+    "description": "A curry made with roasted coconut, tamarind, and spices, often cooked with vegetables.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/Theeyal.jpg",
+    "category": "Vegetarian"
+  },
+  {
+    "id": 14,
+    "name": "Parotta with Beef Curry",
+    "description": "Layered flaky flatbread served with spicy beef curry.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2020/09/kerala-parotta-recipe-1.jpg",
+    "category": "Main Course",
+    "region": "Malabar"
+  },
+  {
+    "id": 15,
+    "name": "Malabar Biryani",
+    "description": "Fragrant rice cooked with spices and meat, a specialty of Malabar.",
+    "image": "https://www.kannammacooks.com/wp-content/uploads/malabar-biryani.jpg",
+    "category": "Main Course",
+    "region": "Malabar"
+  },
+  {
+    "id": 16,
+    "name": "Thalassery Biryani",
+    "description": "A unique biryani from Thalassery, cooked with kaima rice and mild spices.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/smitha/thalassery_biryani.jpg",
+    "category": "Main Course",
+    "region": "Malabar"
+  },
+  {
+    "id": 17,
+    "name": "Fish Moilee",
+    "description": "Kerala-style fish curry cooked in coconut milk with mild spices.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/smitha/Fish_Moilee.jpg",
+    "category": "Seafood",
+    "region": "Kerala"
+  },
+  {
+    "id": 18,
+    "name": "Malabar Fish Curry",
+    "description": "Spicy red fish curry cooked with tamarind and Malabar spices.",
+    "image": "https://www.kannammacooks.com/wp-content/uploads/malabar-fish-curry.jpg",
+    "category": "Seafood",
+    "region": "Malabar"
+  },
+  {
+    "id": 19,
+    "name": "Unniyappam",
+    "description": "Sweet rice and jaggery fritters fried in ghee.",
+    "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/03/unniyappam-recipe-1.jpg",
+    "category": "Snack",
+    "region": "Kerala"
+  },
+  {
+    "id": 20,
+    "name": "Appam and Stew",
+    "description": "Soft and lacy pancakes served with vegetable or chicken stew.",
+    "image": "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/smitha/Appam_with_Vegetable_Stew.jpg",
+    "category": "Breakfast",
+    "region": "Kerala"
+  },
